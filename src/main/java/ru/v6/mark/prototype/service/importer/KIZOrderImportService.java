@@ -11,8 +11,6 @@ import ru.v6.mark.prototype.domain.constant.KIZPositionStatus;
 import ru.v6.mark.prototype.domain.dao.KIZOrderDao;
 import ru.v6.mark.prototype.domain.dao.KIZPositionDao;
 import ru.v6.mark.prototype.domain.entity.*;
-import ru.v6.mark.prototype.service.CachedDataReceiver;
-import ru.v6.mark.prototype.service.ClientService;
 import ru.v6.mark.prototype.service.GoodsService;
 import ru.v6.mark.prototype.service.converter.ProductConverter;
 import ru.v6.mark.prototype.service.util.JSONUtil;

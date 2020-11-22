@@ -18,7 +18,6 @@ import ru.v6.mark.prototype.domain.entity.KIZMark;
 import ru.v6.mark.prototype.domain.entity.KIZPosition;
 import ru.v6.mark.prototype.domain.entity.ValidateMarksLog;
 import ru.v6.mark.prototype.service.util.SleepUtil;
-import ru.v6.mark.prototype.service.util.StringUtil;
 import ru.v6.mark.prototype.web.context.CompleteMarkInfo;
 import ru.v6.mark.prototype.web.context.RequestWrapper;
 import ru.v6.mark.prototype.web.context.Response;

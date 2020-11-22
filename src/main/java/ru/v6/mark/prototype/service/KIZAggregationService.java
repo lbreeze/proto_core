@@ -10,7 +10,6 @@ import ru.v6.mark.prototype.domain.dao.KIZAggregationDao;
 import ru.v6.mark.prototype.domain.entity.KIZAggregation;
 import ru.v6.mark.prototype.service.util.ResultError;
 import ru.v6.mark.prototype.service.util.SleepUtil;
-import ru.v6.mark.prototype.service.util.StringUtil;
 
 import java.util.ArrayList;
 import java.util.List;

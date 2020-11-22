@@ -15,7 +15,6 @@ import ru.v6.mark.prototype.service.ArticleService;
 import ru.v6.mark.prototype.service.DepartmentService;
 import ru.v6.mark.prototype.service.KIZAggregationService;
 import ru.v6.mark.prototype.service.VendorService;
-import ru.v6.mark.prototype.service.util.DateUtil;
 import ru.v6.mark.prototype.domain.entity.*;
 
 import java.text.SimpleDateFormat;

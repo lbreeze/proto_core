@@ -13,7 +13,6 @@ import ru.v6.mark.prototype.domain.entity.Gtin;
 import ru.v6.mark.prototype.domain.entity.KIZMark;
 import ru.v6.mark.prototype.domain.entity.KIZPosition;
 import ru.v6.mark.prototype.exception.ApplicationException;
-import ru.v6.mark.prototype.service.util.DocumentPdfCoords;
 import uk.org.okapibarcode.backend.DataMatrix;
 import uk.org.okapibarcode.backend.Symbol;
 import uk.org.okapibarcode.output.Java2DRenderer;

@@ -4,8 +4,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import ru.v6.mark.prototype.domain.criteria.GoodsCriteria;
 import ru.v6.mark.prototype.domain.entity.Goods;
-import ru.v6.mark.prototype.service.CachedDataReceiver;
-import ru.v6.mark.prototype.service.ClientService;
 import ru.v6.mark.prototype.service.GoodsService;
 import ru.v6.mark.prototype.service.converter.ProductConverter;
 
